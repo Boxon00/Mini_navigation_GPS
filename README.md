@@ -1,4 +1,4 @@
-# 🗺️ Mini GPS Navigacioni Sistem — SOLID + OOP verzija
+# 🗺️ Mini GPS Navigacioni Sistem 
 
 Konzolni program u **C++17** koji pronalazi najkracu rutu izmedju gradova Srbije. Ova verzija je kompletno refaktorisana po **SOLID principima** i **OOP** paradigmi.
 
